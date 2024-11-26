@@ -1,0 +1,76 @@
+/* Global Styles */
+html, body {
+  height: 100%; /* Ensure full height */
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+  width: 100%;
+}
+
+/* Main content area */
+.dashboard {
+  display: flex; /* Use flexbox to layout sidebar and main content */
+  height: 100vh; /* Full height */
+  width: 185vh;
+}
+
+/* Main content area */
+.main-content {
+  flex-grow: 1; /* Allow this to grow and fill available space */
+  padding: 10px; /* Space inside the main content area */
+  background-color: #ffffff; /* White background */
+  color: #333; /* Darker text */
+  min-height: 100vh; /* Full height */
+  box-sizing: border-box; /* Include padding in the width calculation */
+  overflow-y: auto; /* Allow vertical scrolling if content exceeds viewport */
+  margin-left: 280px; /* Leave space for sidebar */
+  margin-right: 15px; /* Right margin for spacing */
+  width:100%; /* Full width minus sidebar and margins */
+}
+/* Header section */
+.header {
+  display: flex;
+  justify-content: space-between; /* Space items evenly */
+  align-items: center; /* Center items vertically */
+  padding: 20px; /* Space inside the header */
+  background-color: #ffffff; /* Light background for header */
+  border-radius: 10px; /* Rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  width: calc(100% - 40px); /* Full width minus padding (20px on each side) */
+  height: auto; /* Auto height to adjust based on content */
+  margin: 20px 20px 20px 20px; /* Margin for spacing from edges */
+  box-sizing: border-box; /* Include padding and border in the element's total width and height */
+}
+
+.header h1 {
+  font-size: 2rem;
+  font-weight: bold;
+  margin: 0;
+  color: #333;
+}
+
+.header p {
+  font-size: 1rem;
+  margin-left: 10px;
+  color: #666;
+}
+
+.logout-button {
+  padding: 10px 20px;
+  background-color: #ff4b4b;
+  border: none;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.logout-button:hover {
+  background-color: #e63e3e;
+}
+
+/* Adjust other sections accordingly to maintain overall layout */
+@media (max-width: 768px) {
+  .header {
+    padding: 15px; /* Reduced padding for smaller screens */
+    margin: 0 10px; /* Adjust margin for smaller screens */
+  }
+}

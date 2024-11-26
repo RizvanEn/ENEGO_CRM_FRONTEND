@@ -1,0 +1,2279 @@
+[{
+  "_id": {
+    "$oid": "673d75af13471cddae4babb1"
+  },
+  "user_id": "673b2e8464b3087559c7f9cf",
+  "bdm": "Arun Mahor",
+  "branch_name": "808",
+  "company_name": "DEEKSHA FACE PHARMA BENGALURU PRIVATE LIMITED",
+  "contact_person": "DEEKSHA FACE PHARMA BENGALURU PRIVATE LIMITED",
+  "email": "deekshafacepharma@gmail.com",
+  "contact_no": 8746012723,
+  "services": "SEED SUPPORT SCHEME",
+  "total_amount": 11800,
+  "term_1": 11800,
+  "term_2": null,
+  "term_3": null,
+  "term_1_payment_date": "2024-11-20",
+  "term_2_payment_date": null,
+  "term_3_payment_date": null,
+  "pan": "AAKCD0898E",
+  "gst": " 29AAKCD0898E1ZB",
+  "remark": "",
+  "date": {
+    "$date": "2024-11-19T00:00:00.000Z"
+  },
+  "bank": "Razorpay",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2024-11-20T05:37:51.590Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-22T04:55:43.325Z"
+  },
+  "closed_by": ""
+},
+{
+  "_id": {
+    "$oid": "673d8cec6a3d8f1073a33896"
+  },
+  "user_id": "670cb0f985082dc5c9ede02f",
+  "bdm": "Aman Kumar",
+  "branch_name": "404",
+  "company_name": "SRI SRI JADHIMAHAL YOUTH CLUB",
+  "contact_person": "ADITYA KUMAR",
+  "email": "SSYC@REDIFFMAIL.COM",
+  "contact_no": 8984739374,
+  "services": "NGO Darpan",
+  "total_amount": 10620,
+  "term_1": 10620,
+  "term_2": null,
+  "term_3": null,
+  "term_1_payment_date": "2024-11-20",
+  "term_2_payment_date": null,
+  "term_3_payment_date": null,
+  "pan": "AAGTS5866C",
+  "gst": "",
+  "remark": "",
+  "date": {
+    "$date": "2024-11-20T00:00:00.000Z"
+  },
+  "closed_by": "Self",
+  "bank": "Razorpay",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2024-11-20T07:17:00.703Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T06:03:30.651Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673da4aa73f3b730a1712cc1"
+  },
+  "user_id": "670caeb185082dc5c9ede008",
+  "bdm": "Umang Rastogi",
+  "branch_name": "808",
+  "company_name": "DIVESH DIK",
+  "contact_person": "Divesh Dik",
+  "email": "diveshdik1@gmail.com",
+  "contact_no": 7340747153,
+  "services": "Nidhi Prayas Grant",
+  "total_amount": 8100,
+  "term_1": 8100,
+  "term_2": null,
+  "term_3": null,
+  "term_1_payment_date": "2024-11-20",
+  "term_2_payment_date": null,
+  "term_3_payment_date": null,
+  "pan": "AMSPD9598A",
+  "gst": "N/A",
+  "remark": "",
+  "date": {
+    "$date": "2024-11-20T00:00:00.000Z"
+  },
+  "closed_by": "50% Umang 50% Sanjeev",
+  "bank": "Kotak Mahindra Bank",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2024-11-20T08:58:18.570Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-20T12:31:04.525Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673db60673f3b730a1712d67"
+  },
+  "user_id": "673b2e8464b3087559c7f9cf",
+  "bdm": "Arun Mahor",
+  "branch_name": "808",
+  "company_name": "URBAN NEXT BAZAAR",
+  "contact_person": "URBAN NEXT BAZAAR",
+  "email": "nirmalsai.co@gmail.com",
+  "contact_no": 8249032863,
+  "services": "GIG",
+  "total_amount": 29500,
+  "term_1": 10000,
+  "term_2": null,
+  "term_3": null,
+  "term_1_payment_date": "2024-11-20",
+  "term_2_payment_date": null,
+  "term_3_payment_date": null,
+  "pan": "ACEPD5694B",
+  "gst": "21ACEPD5694B1Z4",
+  "remark": "",
+  "date": {
+    "$date": "2024-11-20T00:00:00.000Z"
+  },
+  "closed_by": "ravi sir ",
+  "bank": "Kotak Mahindra Bank",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2024-11-20T10:12:22.689Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-20T10:12:22.689Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673dbfb573f3b730a1712d92"
+  },
+  "user_id": "673b370364b3087559c7fa2c",
+  "bdm": "Rajendra Barot",
+  "branch_name": "1206 A",
+  "company_name": "M/S SAHARA ENGG. WORKS",
+  "contact_person": "SHAHNAWAZ AHMAD",
+  "email": "rajendra.barot@enego.co.in",
+  "contact_no": 6395480661,
+  "services": "CGTMSE",
+  "total_amount": 12000,
+  "term_1": 8000,
+  "term_2": null,
+  "term_3": null,
+  "term_1_payment_date": "2024-11-20",
+  "term_2_payment_date": null,
+  "term_3_payment_date": null,
+  "pan": "AKZPA0405A",
+  "gst": "09AKZPA0405A1ZM",
+  "remark": "",
+  "date": {
+    "$date": "2024-11-20T00:00:00.000Z"
+  },
+  "closed_by": "Self",
+  "bank": "Kotak Mahindra Bank",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2024-11-20T10:53:41.820Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T06:01:47.843Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673dcdc473f3b730a1712e4a"
+  },
+  "user_id": "670caee185082dc5c9ede00b",
+  "bdm": "Harish",
+  "branch_name": "808",
+  "company_name": "RAJANI HAZARIKA",
+  "contact_person": "RAJANI HAZARIKA",
+  "email": "rajanihazarika@gmail.com",
+  "contact_no": 6001905050,
+  "services": "Company Incorporation",
+  "total_amount": 60101,
+  "term_1": 60101,
+  "term_2": null,
+  "term_3": null,
+  "term_1_payment_date": "2024-11-09",
+  "term_2_payment_date": null,
+  "term_3_payment_date": null,
+  "pan": "AGOPH0483J",
+  "gst": "N/A",
+  "remark": "PAYMENT RECIVED IN 3 TERM \n1st 1101 on 19-9-24\n2nd 40000 on 9-11-24\n3rd 19000 on 13-11-24",
+  "date": {
+    "$date": "2024-11-09T00:00:00.000Z"
+  },
+  "closed_by": "own",
+  "bank": "Kotak Mahindra Bank",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2024-11-20T11:53:40.856Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-20T11:53:40.856Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673dce1873f3b730a1712e55"
+  },
+  "user_id": "6711f48229ab2e1448507d11",
+  "bdm": "Archita Tiwari",
+  "branch_name": "808",
+  "company_name": "VARX INDUSTRIES PRIVATE LIMITED",
+  "contact_person": "Vivek Narayan Jaiswal",
+  "email": "vsfsjaiswal1983@gmail.com",
+  "contact_no": 7499188877,
+  "services": "Startup Certificate",
+  "total_amount": 5900,
+  "term_1": null,
+  "term_2": 5900,
+  "term_3": null,
+  "term_1_payment_date": null,
+  "term_2_payment_date": "2024-11-20",
+  "term_3_payment_date": null,
+  "pan": "AAKCV4330R",
+  "gst": "N/A",
+  "remark": "remaining amount kindly don't share the agreement.",
+  "date": {
+    "$date": "2024-11-20T00:00:00.000Z"
+  },
+  "closed_by": "Archita 50% umang 25% sanjeev 25%",
+  "bank": "Razorpay",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2024-11-20T11:55:04.711Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-20T11:55:04.711Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673dcea773f3b730a1712e5a"
+  },
+  "user_id": "6711f48229ab2e1448507d11",
+  "bdm": "Archita Tiwari",
+  "branch_name": "808",
+  "company_name": "VARX INDUSTRIES PRIVATE LIMITED",
+  "contact_person": "Vivek Narayan Jaiswal",
+  "email": "vsfsjaiswal1983@gmail.com",
+  "contact_no": 7499188877,
+  "services": "Leap Fund 1cr",
+  "total_amount": 5900,
+  "term_1": null,
+  "term_2": 5900,
+  "term_3": null,
+  "term_1_payment_date": null,
+  "term_2_payment_date": "2024-11-20",
+  "term_3_payment_date": null,
+  "pan": "AAKCV4330R",
+  "gst": "N/A",
+  "remark": "remaining amount kindly dont send agreement",
+  "date": {
+    "$date": "2024-11-20T00:00:00.000Z"
+  },
+  "closed_by": "Archita 50% umang 25% sanjeev 25%",
+  "bank": "Razorpay",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2024-11-20T11:57:27.448Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T04:47:20.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673ec1f66c2dc43c9e25bbb6"
+  },
+  "user_id": "6711f3be29ab2e1448507d0a",
+  "bdm": "Md Shadab ",
+  "branch_name": "808",
+  "company_name": "JAWAHAR DEVELOPMENT SOCIETY CHERIPARAMBA",
+  "contact_person": "JAWAHAR DEVELOPMENT SOCIETY CHERIPARAMBA",
+  "email": "Kabeermasterepta@gmail.com",
+  "contact_no": 9447882672,
+  "services": "Ngo upliftment grants",
+  "total_amount": 3000,
+  "term_1": null,
+  "term_2": 3000,
+  "term_3": null,
+  "term_1_payment_date": null,
+  "term_2_payment_date": "2024-11-20",
+  "term_3_payment_date": null,
+  "pan": "AAMAJ4043K",
+  "gst": "N/A",
+  "remark": "Total Amount 15900 Rest amount received 10000 [20-12-2024] ,Ngo upliftment grants, pathfinder, Progressive impact grants ",
+  "date": {
+    "$date": "2024-11-20T00:00:00.000Z"
+  },
+  "closed_by": "self",
+  "bank": "HDFC Bank",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2024-11-21T05:15:34.449Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T05:15:34.449Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673ec2686c2dc43c9e25bbba"
+  },
+  "user_id": "6711f3be29ab2e1448507d0a",
+  "bdm": "Md Shadab ",
+  "branch_name": "808",
+  "company_name": "JAWAHAR DEVELOPMENT SOCIETY CHERIPARAMBA",
+  "contact_person": "JAWAHAR DEVELOPMENT SOCIETY CHERIPARAMBA",
+  "email": "Kabeermasterepta@gmail.com",
+  "contact_no": 9447882672,
+  "services": "PATHFINDER GRANT",
+  "total_amount": 3000,
+  "term_1": null,
+  "term_2": 3000,
+  "term_3": null,
+  "term_1_payment_date": null,
+  "term_2_payment_date": "2024-11-20",
+  "term_3_payment_date": null,
+  "pan": "AAMAJ4043K",
+  "gst": "N/A",
+  "remark": "Rest amount received 10000 [20-12-2024],Ngo upliftment grants, pathfinder, Progressive impact grants ",
+  "date": {
+    "$date": "2024-11-20T00:00:00.000Z"
+  },
+  "closed_by": "Self",
+  "bank": "HDFC Bank",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2024-11-21T05:17:28.740Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T05:17:28.740Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673ec2ce6c2dc43c9e25bbbe"
+  },
+  "user_id": "6711f3be29ab2e1448507d0a",
+  "bdm": "Md Shadab ",
+  "branch_name": "808",
+  "company_name": "JAWAHAR DEVELOPMENT SOCIETY CHERIPARAMBA",
+  "contact_person": "JAWAHAR DEVELOPMENT SOCIETY CHERIPARAMBA",
+  "email": "Kabeermasterepta@gmail.com",
+  "contact_no": 9447882672,
+  "services": "Progressive impact grants ",
+  "total_amount": 4000,
+  "term_1": null,
+  "term_2": 4000,
+  "term_3": null,
+  "term_1_payment_date": null,
+  "term_2_payment_date": "2024-11-20",
+  "term_3_payment_date": null,
+  "pan": "AAMAJ4043K",
+  "gst": "N/A",
+  "remark": "Rest amount received 10000 [20-12-2024],Ngo upliftment grants, pathfinder, Progressive impact grants ",
+  "date": {
+    "$date": "2024-11-20T00:00:00.000Z"
+  },
+  "closed_by": "Self",
+  "bank": "HDFC Bank",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2024-11-21T05:19:10.999Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T05:19:10.999Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673ec5466c2dc43c9e25bbc2"
+  },
+  "user_id": "6711f3be29ab2e1448507d0a",
+  "bdm": "Md Shadab ",
+  "branch_name": "808",
+  "company_name": "MULNIWASI BAHU UDHYESHIYA SHIKSHAN SANTHA",
+  "contact_person": "Latari kawadhu Madhvi",
+  "email": "lkmadavi@gmail.com",
+  "contact_no": 9518359266,
+  "services": "GIG",
+  "total_amount": 3875,
+  "term_1": null,
+  "term_2": 3875,
+  "term_3": null,
+  "term_1_payment_date": null,
+  "term_2_payment_date": "2024-11-21",
+  "term_3_payment_date": null,
+  "pan": "AAGTM1795A",
+  "gst": "N/A",
+  "remark": "Rest amount reecived 7750 on 21-11-2024,\nGIG,PIG Booking date=19/11/2024,Total Amount 15500",
+  "date": {
+    "$date": "2024-11-21T00:00:00.000Z"
+  },
+  "closed_by": "Self",
+  "bank": "HDFC Bank",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2024-11-21T05:29:42.528Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T05:29:42.528Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673ec5c76c2dc43c9e25bbc6"
+  },
+  "user_id": "6711f3be29ab2e1448507d0a",
+  "bdm": "Md Shadab ",
+  "branch_name": "808",
+  "company_name": "MULNIWASI BAHU UDHYESHIYA SHIKSHAN SANTHA",
+  "contact_person": "Latari kawadhu Madhvi",
+  "email": "lkmadavi@gmail.com",
+  "contact_no": 9518359266,
+  "services": "Progressive impact grants ",
+  "total_amount": 3875,
+  "term_1": null,
+  "term_2": 3875,
+  "term_3": null,
+  "term_1_payment_date": null,
+  "term_2_payment_date": "2024-11-21",
+  "term_3_payment_date": null,
+  "pan": "AAGTM1795A",
+  "gst": "N/A",
+  "remark": "Rest amount reecived 7750 on 21-11-2024,Booking date=19/11/2024 Total Amount 15500",
+  "date": {
+    "$date": "2024-11-21T00:00:00.000Z"
+  },
+  "closed_by": "Self",
+  "bank": "HDFC Bank",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2024-11-21T05:31:51.643Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T05:31:51.643Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673ec7266c2dc43c9e25bbdc"
+  },
+  "user_id": "670cb0f985082dc5c9ede02f",
+  "bdm": "Aman Kumar",
+  "branch_name": "404",
+  "company_name": "SRI SRI JADHIMAHAL YOUTH CLUB",
+  "contact_person": "ADITYA KUMAR",
+  "email": "SSYC@REDIFFMAIL.COM",
+  "contact_no": 8984739374,
+  "services": "SUSTAINABLE IMPACT",
+  "total_amount": 10000,
+  "term_1": 10000,
+  "term_2": null,
+  "term_3": null,
+  "term_1_payment_date": "2024-11-20",
+  "term_2_payment_date": null,
+  "term_3_payment_date": null,
+  "pan": "AAGTS5866C",
+  "gst": "N/A",
+  "remark": "50-50 with Nidhi Batham",
+  "date": {
+    "$date": "2024-11-21T00:00:00.000Z"
+  },
+  "closed_by": "Self",
+  "bank": "Razorpay",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2024-11-21T05:37:42.973Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T06:00:20.932Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673eccc1d54465b902cc7782"
+  },
+  "user_id": "670cb1ac85082dc5c9ede03b",
+  "bdm": "Vishal Kumar",
+  "branch_name": "808",
+  "company_name": "SUBRATA KISHAN",
+  "contact_person": "Dukhan bandhu krishan ",
+  "email": "kishan.subrata12@rediffmail.com",
+  "contact_no": 8895500128,
+  "services": "WEBSITE DEVELOPMENT",
+  "total_amount": 29500,
+  "term_1": 17700,
+  "term_2": null,
+  "term_3": null,
+  "term_1_payment_date": "2024-11-21",
+  "term_2_payment_date": null,
+  "term_3_payment_date": null,
+  "pan": "ARKPK6573F",
+  "gst": "NA",
+  "remark": "balance amount 11800 we  have to receive ",
+  "date": {
+    "$date": "2024-11-21T00:00:00.000Z"
+  },
+  "closed_by": "Self",
+  "bank": "Razorpay",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2024-11-21T06:01:37.790Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T06:21:58.372Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673ed596d54465b902cc7803"
+  },
+  "user_id": "673b2e8464b3087559c7f9cf",
+  "bdm": "Arun Mahor",
+  "branch_name": "808",
+  "company_name": "NATIONAL INTEGRATION OF KNOWLEDGE, EDUCATION,",
+  "contact_person": "MANISH KUMAR TRIPATHI",
+  "email": "info@veyilfoundation.com",
+  "contact_no": 9415021463,
+  "services": "GIG",
+  "total_amount": 29500,
+  "term_1": 14750,
+  "term_2": null,
+  "term_3": null,
+  "term_1_payment_date": "2024-11-21",
+  "term_2_payment_date": null,
+  "term_3_payment_date": null,
+  "pan": "ABMPT4572F",
+  "gst": "N/A",
+  "remark": "",
+  "date": {
+    "$date": "2024-11-21T00:00:00.000Z"
+  },
+  "closed_by": "ravi sir  by ainket sir ",
+  "bank": "Kotak Mahindra Bank",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2024-11-21T06:39:18.989Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T06:39:18.989Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673eddc238168cb43a180658"
+  },
+  "user_id": "670cb16385082dc5c9ede035",
+  "bdm": "Rita Rani",
+  "branch_name": "404",
+  "company_name": "SAI PAVI ASSOCIATES",
+  "contact_person": "Raja krishnamurthy ",
+  "email": "swmyraja7@gmail.com",
+  "contact_no": 9994227964,
+  "services": "SEED SUPPORT SCHEME",
+  "total_amount": 11800,
+  "term_1": 11800,
+  "term_2": null,
+  "term_3": null,
+  "term_1_payment_date": "2024-11-21",
+  "term_2_payment_date": null,
+  "term_3_payment_date": null,
+  "pan": "BBOPR6492K",
+  "gst": "33BBOPR6492K1ZV",
+  "remark": "Client requirement 20lakh",
+  "date": {
+    "$date": "2024-11-21T00:00:00.000Z"
+  },
+  "closed_by": "Navneet sir and me",
+  "bank": "Razorpay",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2024-11-21T07:14:10.505Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T07:14:10.505Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673ee13138168cb43a18068f"
+  },
+  "user_id": "670cb1ac85082dc5c9ede03b",
+  "bdm": "Vishal Kumar",
+  "branch_name": "808",
+  "company_name": "EDUNEXON (OPC) PRIVATE LIMITED",
+  "contact_person": "Barun kumar",
+  "email": "edunexon@gmail.com",
+  "contact_no": 8010105221,
+  "services": "Nidhi Prayas Grant",
+  "total_amount": 2900,
+  "term_1": null,
+  "term_2": 2900,
+  "term_3": null,
+  "term_1_payment_date": null,
+  "term_2_payment_date": "2024-11-21",
+  "term_3_payment_date": null,
+  "pan": "",
+  "gst": "20AAICE0937F1Z4",
+  "remark": "Balance  Amount Recived 2900\nBooking date= 18th NOV 2024 ,3000 recived",
+  "date": {
+    "$date": "2024-11-19T00:00:00.000Z"
+  },
+  "closed_by": "Self",
+  "bank": "Razorpay",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2024-11-21T07:28:49.514Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T07:35:17.332Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673ee4b438168cb43a1806bf"
+  },
+  "user_id": "670caeb185082dc5c9ede008",
+  "bdm": "Umang Rastogi",
+  "branch_name": "808",
+  "company_name": "AVD MOTION PICTURES",
+  "contact_person": "Atul vinod",
+  "email": "avdmotionpictures@gmail.com",
+  "contact_no": 9858687888,
+  "services": "Enterprise Leap 2.0",
+  "total_amount": 3500,
+  "term_1": null,
+  "term_2": 3500,
+  "term_3": null,
+  "term_1_payment_date": null,
+  "term_2_payment_date": "2024-11-21",
+  "term_3_payment_date": null,
+  "pan": "ABIFA6948G",
+  "gst": "N/A",
+  "remark": "REMAINING AMOUNT RECEIVED\n1% AFTER DISBURSEMENT",
+  "date": {
+    "$date": "2024-11-21T00:00:00.000Z"
+  },
+  "closed_by": "50% sanjeev 50% Umang",
+  "bank": "Razorpay",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2024-11-21T07:43:48.202Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T07:43:48.202Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673ee55138168cb43a1806c5"
+  },
+  "user_id": "670caeb185082dc5c9ede008",
+  "bdm": "Umang Rastogi",
+  "branch_name": "808",
+  "company_name": "AVD MOTION PICTURES",
+  "contact_person": "Atul vinod",
+  "email": "avdmotionpictures@gmail.com",
+  "contact_no": 9858687888,
+  "services": "Nidhi Prayas Grant",
+  "total_amount": 3500,
+  "term_1": null,
+  "term_2": 3500,
+  "term_3": null,
+  "term_1_payment_date": null,
+  "term_2_payment_date": "2024-11-21",
+  "term_3_payment_date": null,
+  "pan": "ABIFA6948G",
+  "gst": "N/A",
+  "remark": "REMAINING AMOUNT \n1% AFTER DISBURSEMENT",
+  "date": {
+    "$date": "2024-11-21T00:00:00.000Z"
+  },
+  "closed_by": "50% sanjeev 50% Umang",
+  "bank": "Razorpay",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2024-11-21T07:46:25.079Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T07:46:25.079Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673ee98f38168cb43a180712"
+  },
+  "user_id": "67133ce59c16562bb336fdf6",
+  "bdm": "Vivek Chauhan",
+  "branch_name": "404",
+  "company_name": "SEVEN WONDERS PLAYSCHOOL",
+  "contact_person": "Prasad Manishrao Gore",
+  "email": "prasadgore41@gmail.com",
+  "contact_no": 7058076598,
+  "services": "JANSAMARTH",
+  "total_amount": 11800,
+  "term_1": 5900,
+  "term_2": null,
+  "term_3": null,
+  "term_1_payment_date": "2024-11-21",
+  "term_2_payment_date": null,
+  "term_3_payment_date": null,
+  "pan": "BJNPG4764N",
+  "gst": "",
+  "remark": "also Udhyam Certificate",
+  "date": {
+    "$date": "2024-11-21T00:00:00.000Z"
+  },
+  "closed_by": "myself",
+  "bank": "HDFC Bank",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2024-11-21T08:04:31.187Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T09:46:15.603Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673ef7c394998ac985ea598d"
+  },
+  "user_id": "670cb0f985082dc5c9ede02f",
+  "bdm": "Aman Kumar",
+  "branch_name": "404",
+  "company_name": "SRI SRI JADHIMAHAL YOUTH CLUB",
+  "contact_person": "ADITYA KUMAR",
+  "email": "SSYC@REDIFFMAIL.COM",
+  "contact_no": 8984739374,
+  "services": "STARTUP ACCELERATOR",
+  "total_amount": 25000,
+  "term_1": 25000,
+  "term_2": null,
+  "term_3": null,
+  "term_1_payment_date": "2024-11-21",
+  "term_2_payment_date": null,
+  "term_3_payment_date": null,
+  "pan": "AAGTS5866C",
+  "gst": "N/A",
+  "remark": "",
+  "date": {
+    "$date": "2024-11-21T00:00:00.000Z"
+  },
+  "closed_by": "SELF",
+  "bank": "Razorpay",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2024-11-21T09:05:07.920Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T09:05:07.920Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673f234c9408e4e11cedc663"
+  },
+  "user_id": "670caeb185082dc5c9ede008",
+  "bdm": "Umang Rastogi",
+  "branch_name": "808",
+  "company_name": "VIKOM ENTERPRISES PVT LTD",
+  "contact_person": "Karan kumar",
+  "email": "veplhelp@gmail.com",
+  "contact_no": 9473063604,
+  "services": "GIG",
+  "total_amount": 3933,
+  "term_1": 3933,
+  "term_2": null,
+  "term_3": null,
+  "term_1_payment_date": "2024-11-21",
+  "term_2_payment_date": null,
+  "term_3_payment_date": null,
+  "pan": "AAHCV3563D",
+  "gst": "N/A",
+  "remark": "1% AFTER DISBURSEMENT",
+  "date": {
+    "$date": "2024-11-21T00:00:00.000Z"
+  },
+  "closed_by": "25%umang, 25% sanjeev, 50%shifali",
+  "bank": "Kotak Mahindra Bank",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2024-11-21T12:10:52.837Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T12:10:52.837Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673f23c29408e4e11cedc667"
+  },
+  "user_id": "670caeb185082dc5c9ede008",
+  "bdm": "Umang Rastogi",
+  "branch_name": "808",
+  "company_name": "VIKOM ENTERPRISES PVT LTD",
+  "contact_person": "Karan kumar",
+  "email": "veplhelp@gmail.com",
+  "contact_no": 9473063604,
+  "services": "Nidhi Prayas Grant",
+  "total_amount": 3933,
+  "term_1": 3933,
+  "term_2": null,
+  "term_3": null,
+  "term_1_payment_date": "2024-11-21",
+  "term_2_payment_date": null,
+  "term_3_payment_date": null,
+  "pan": "AAHCV3563D",
+  "gst": "N/A",
+  "remark": "1% AFTER DISBURSEMENT",
+  "date": {
+    "$date": "2024-11-21T00:00:00.000Z"
+  },
+  "closed_by": "25%umang, 25% sanjeev, 50%shifali",
+  "bank": "Kotak Mahindra Bank",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2024-11-21T12:12:50.447Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T12:12:50.447Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673f23fa9408e4e11cedc66a"
+  },
+  "user_id": "67133d219c16562bb336fdf9",
+  "bdm": "Aditya Pratap",
+  "branch_name": "404",
+  "company_name": "TARU BAKERY AND SWEET PRODUCTS ",
+  "contact_person": "SHAILJA MISHRA ",
+  "email": "mishranand08@gmail.com",
+  "contact_no": 9559495679,
+  "services": "DEBT/EQUITY BASED SCHEMES",
+  "total_amount": 11800,
+  "term_1": 5900,
+  "term_2": null,
+  "term_3": null,
+  "term_1_payment_date": "2024-11-21",
+  "term_2_payment_date": null,
+  "term_3_payment_date": null,
+  "pan": "CZDPM1203K",
+  "gst": "N/A",
+  "remark": "only STANDUP INDIA",
+  "date": {
+    "$date": "2024-11-21T00:00:00.000Z"
+  },
+  "closed_by": "NAVNEET SIR ",
+  "bank": "Razorpay",
+  "status": "Pending",
+  "after_disbursement": "1%",
+  "createdAt": {
+    "$date": "2024-11-21T12:13:46.745Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T12:13:46.745Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673f26b59408e4e11cedc66e"
+  },
+  "user_id": "670caeb185082dc5c9ede008",
+  "bdm": "Umang Rastogi",
+  "branch_name": "808",
+  "company_name": "VIKOM ENTERPRISES PVT LTD",
+  "contact_person": "Karan kumar",
+  "email": "veplhelp@gmail.com",
+  "contact_no": 9473063604,
+  "services": "Leap Fund 1cr",
+  "total_amount": 3934,
+  "term_1": 3934,
+  "term_2": null,
+  "term_3": null,
+  "term_1_payment_date": "2024-11-21",
+  "term_2_payment_date": null,
+  "term_3_payment_date": null,
+  "pan": "AAHCV3563D",
+  "gst": "N/A",
+  "remark": "1% After disbursement",
+  "date": {
+    "$date": "2024-11-21T00:00:00.000Z"
+  },
+  "closed_by": "25%umang, 25% sanjeev, 50%shifali",
+  "bank": "Kotak Mahindra Bank",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2024-11-21T12:25:25.971Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-21T12:25:25.971Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67401d97c7b1eab5062b83e5"
+  },
+  "user_id": "670cae8d85082dc5c9ede005",
+  "bdm": "Deepak",
+  "branch_name": "808",
+  "company_name": "GLOBAL DAKSHIN INTERNATIONAL OPC PRIVATE LIMITED",
+  "contact_person": "vinay kumar",
+  "email": "vks8757@gmail.com",
+  "contact_no": 7870227800,
+  "services": "GIG",
+  "total_amount": 26000,
+  "term_1": null,
+  "term_2": 26000,
+  "term_3": null,
+  "term_1_payment_date": null,
+  "term_2_payment_date": "2024-11-20",
+  "term_3_payment_date": null,
+  "pan": "AALCG1653M",
+  "gst": "N/A",
+  "remark": "PATHFINDER , NIDHI PRAYAS , LEAP 2.0 ",
+  "date": {
+    "$date": "2024-11-22T00:00:00.000Z"
+  },
+  "closed_by": "self",
+  "bank": "Kotak Mahindra Bank",
+  "status": "Pending",
+  "after_disbursement": "1%",
+  "createdAt": {
+    "$date": "2024-11-22T05:58:47.936Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-22T05:58:47.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67401e01c7b1eab5062b83ef"
+  },
+  "user_id": "673b370364b3087559c7fa2c",
+  "bdm": "Rajendra Barot",
+  "branch_name": "1206 A",
+  "company_name": "SANDEEP SHRIKANT KARADE ",
+  "contact_person": "Sandeep Shrikant karade ",
+  "email": "sandipkarade99@gmail.com",
+  "contact_no": 9923410909,
+  "services": "GIG",
+  "total_amount": 35400,
+  "term_1": 11800,
+  "term_2": null,
+  "term_3": null,
+  "term_1_payment_date": "2024-11-21",
+  "term_2_payment_date": null,
+  "term_3_payment_date": null,
+  "pan": "BMNPK7110H",
+  "gst": "",
+  "remark": "St sc obc loan \nGig\nHer statup\nNidhi parayash",
+  "date": {
+    "$date": "2024-11-21T00:00:00.000Z"
+  },
+  "closed_by": "RAJENDRA ",
+  "bank": "Razorpay",
+  "status": "Pending",
+  "after_disbursement": "1%",
+  "createdAt": {
+    "$date": "2024-11-22T06:00:33.328Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-22T12:17:45.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67404f0ae482dea6220a07f1"
+  },
+  "user_id": "673dc25e73f3b730a1712db7",
+  "bdm": "Md Arif",
+  "branch_name": "Admin",
+  "company_name": "SINCON",
+  "contact_person": "Sandeep Sinha",
+  "email": "psrealtors2011@gmail.com",
+  "contact_no": 9830991297,
+  "services": "Standup India",
+  "total_amount": 29500,
+  "term_1": null,
+  "term_2": 29500,
+  "term_3": null,
+  "term_1_payment_date": null,
+  "term_2_payment_date": "2024-11-22",
+  "term_3_payment_date": null,
+  "pan": "APMPS3515F",
+  "gst": "N/A",
+  "remark": "",
+  "date": {
+    "$date": "2024-11-22T00:00:00.000Z"
+  },
+  "closed_by": "self",
+  "bank": "Razorpay",
+  "status": "Pending",
+  "after_disbursement": "",
+  "createdAt": {
+    "$date": "2024-11-22T09:29:46.670Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-22T09:29:46.670Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674055c3e482dea6220a0811"
+  },
+  "user_id": "670cb0f985082dc5c9ede02f",
+  "bdm": "Aman Kumar",
+  "branch_name": "404",
+  "company_name": "CONSERVE EARTH FOUNDATION",
+  "contact_person": "CONSERVE EARTH FOUNDATION",
+  "email": "conserveearthfoundation@gmail.com",
+  "contact_no": 9600515588,
+  "services": "WEBSITE DEVELOPMENT",
+  "total_amount": 8000,
+  "term_1": 8000,
+  "term_2": null,
+  "term_3": null,
+  "term_1_payment_date": "2024-11-22",
+  "term_2_payment_date": null,
+  "term_3_payment_date": null,
+  "pan": "AABTC8165D",
+  "gst": "N/A",
+  "remark": "USE DOMAIN NAME-CONSERVE EARTH FOUNDATION",
+  "date": {
+    "$date": "2024-11-22T00:00:00.000Z"
+  },
+  "closed_by": "SELF",
+  "bank": "Razorpay",
+  "status": "Pending",
+  "after_disbursement": "",
+  "createdAt": {
+    "$date": "2024-11-22T09:58:27.370Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-22T09:58:27.370Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6740566ee482dea6220a081f"
+  },
+  "user_id": "67133db09c16562bb336fdff",
+  "bdm": "Nancy Rajput",
+  "branch_name": "404",
+  "company_name": "SHRI BAJALI TRADERS ",
+  "contact_person": "SHRI BAJALI TRADERS ",
+  "email": "robinjaiswal837@gamil.com",
+  "contact_no": 9914908723,
+  "services": "PROJECT REPORT",
+  "total_amount": 5900,
+  "term_1": 5900,
+  "term_2": null,
+  "term_3": null,
+  "term_1_payment_date": "2024-11-22",
+  "term_2_payment_date": null,
+  "term_3_payment_date": null,
+  "pan": "BRLPJ4903J",
+  "gst": "",
+  "remark": "",
+  "date": {
+    "$date": "2024-11-22T00:00:00.000Z"
+  },
+  "closed_by": "SELF",
+  "bank": "Razorpay",
+  "status": "Pending",
+  "after_disbursement": "1%",
+  "createdAt": {
+    "$date": "2024-11-22T10:01:18.510Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-22T11:31:42.378Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6740701eaf038485cf186d49"
+  },
+  "user_id": "670caeb185082dc5c9ede008",
+  "bdm": "Umang Rastogi",
+  "branch_name": "808",
+  "company_name": "VANSHEER ENTERPRISE",
+  "contact_person": "Amar Desai",
+  "email": "ad71176@rediff.com",
+  "contact_no": 9825342628,
+  "services": "GIG",
+  "total_amount": 21750,
+  "term_1": 21750,
+  "term_2": null,
+  "term_3": null,
+  "term_1_payment_date": "2024-11-22",
+  "term_2_payment_date": null,
+  "term_3_payment_date": null,
+  "pan": "AAYFV0048H",
+  "gst": "N/A",
+  "remark": "GIG 2ND  STAGE REQUIRE 3 CR ",
+  "date": {
+    "$date": "2024-11-22T00:00:00.000Z"
+  },
+  "closed_by": "Self",
+  "bank": "Kotak Mahindra Bank",
+  "status": "Pending",
+  "after_disbursement": "1%",
+  "createdAt": {
+    "$date": "2024-11-22T11:50:54.889Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-22T12:16:47.154Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67407110af038485cf186d4d"
+  },
+  "user_id": "670caeb185082dc5c9ede008",
+  "bdm": "Umang Rastogi",
+  "branch_name": "808",
+  "company_name": "VANSHEER FOUNDATION",
+  "contact_person": "Amar Desai",
+  "email": "ad71176@rediff.com",
+  "contact_no": 9825342628,
+  "services": "GIG",
+  "total_amount": 21750,
+  "term_1": 21750,
+  "term_2": null,
+  "term_3": null,
+  "term_1_payment_date": "2024-11-22",
+  "term_2_payment_date": null,
+  "term_3_payment_date": null,
+  "pan": "AAJCV0531F",
+  "gst": "N/A",
+  "remark": "GIG 2ND  STAGE REQUIRE 3 CR ",
+  "date": {
+    "$date": "2024-11-22T00:00:00.000Z"
+  },
+  "closed_by": "Self",
+  "bank": "Kotak Mahindra Bank",
+  "status": "Pending",
+  "after_disbursement": "1%",
+  "createdAt": {
+    "$date": "2024-11-22T11:54:56.323Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-22T12:16:40.209Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6741793b0f56a2c408516485"
+  },
+  "user_id": "67133d219c16562bb336fdf9",
+  "bdm": "Aditya Pratap",
+  "branch_name": "404",
+  "company_name": "PINKI BHADIORIYA",
+  "contact_person": "PINKI BHADORIYA",
+  "email": "ashapuraenterprise2000@gmail.com",
+  "contact_no": 9909861303,
+  "services": "Standup India",
+  "total_amount": 12980,
+  "term_1": 12980,
+  "term_2": null,
+  "term_3": null,
+  "term_1_payment_date": "2024-11-22",
+  "term_2_payment_date": null,
+  "term_3_payment_date": null,
+  "pan": "CISPB1768A",
+  "gst": "N/A",
+  "remark": "STANDUP INDIA ",
+  "date": {
+    "$date": "2024-11-23T00:00:00.000Z"
+  },
+  "closed_by": "ADITYA PRATAP SINGH",
+  "bank": "Razorpay",
+  "status": "Pending",
+  "after_disbursement": "1%",
+  "createdAt": {
+    "$date": "2024-11-23T06:42:03.939Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-23T06:42:03.939Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67417f4d0f56a2c408516492"
+  },
+  "user_id": "67133ce59c16562bb336fdf6",
+  "bdm": "Vivek Chauhan",
+  "branch_name": "404",
+  "company_name": "ARITHANG NEEL GAGAN DEVELOPMENT SOCIETY",
+  "contact_person": "ARITHANG NEEL GAGAN DEVELOPMENT SOCIETY",
+  "email": "sharmagangaprasad08@gmail.com",
+  "contact_no": 9735011975,
+  "services": "WEBSITE DEVELOPMENT",
+  "total_amount": 12000,
+  "term_1": 7000,
+  "term_2": null,
+  "term_3": null,
+  "term_1_payment_date": "2024-11-23",
+  "term_2_payment_date": null,
+  "term_3_payment_date": null,
+  "pan": "AABAA3436E",
+  "gst": "AABAA3436E",
+  "remark": "ARITHANG NEEL GAGAN DEVELOPMENT SOCIETY kindy use this  domain",
+  "date": {
+    "$date": "2024-11-23T00:00:00.000Z"
+  },
+  "closed_by": "Aman SIr ",
+  "bank": "HDFC Bank",
+  "status": "Pending",
+  "after_disbursement": "na",
+  "createdAt": {
+    "$date": "2024-11-23T07:07:57.843Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-23T07:07:57.843Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67418d0136b6d0983a5ec10c"
+  },
+  "user_id": "67133d219c16562bb336fdf9",
+  "bdm": "Aditya Pratap",
+  "branch_name": "404",
+  "company_name": "MANJARI AGRO INDUSTRIES PRIVATE LIMITED ",
+  "contact_person": "SAMPURNA NAND MISHRA ",
+  "email": "mishranand08@gmail.com",
+  "contact_no": 9559495679,
+  "services": "CGTMSE",
+  "total_amount": 17700,
+  "term_1": 5900,
+  "term_2": null,
+  "term_3": null,
+  "term_1_payment_date": "2024-11-23",
+  "term_2_payment_date": null,
+  "term_3_payment_date": null,
+  "pan": "AANCM3798B",
+  "gst": "N/A",
+  "remark": " ONLY CGTMSE PROJECT BASED FUNDING ",
+  "date": {
+    "$date": "2024-11-23T00:00:00.000Z"
+  },
+  "closed_by": "ADITYA PRATAP SINGH",
+  "bank": "Razorpay",
+  "status": "Pending",
+  "after_disbursement": "1%",
+  "createdAt": {
+    "$date": "2024-11-23T08:06:25.255Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-23T08:06:25.255Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67419694a0d19f71685a86a1"
+  },
+  "user_id": "67133ce59c16562bb336fdf6",
+  "bdm": "Vivek Chauhan",
+  "branch_name": "404",
+  "company_name": "SKL SABIR",
+  "contact_person": "SKL SABIR",
+  "email": "sksabir2221dd@gmail.com",
+  "contact_no": 7059461681,
+  "services": "JANSAMARTH",
+  "total_amount": 5900,
+  "term_1": 5900,
+  "term_2": null,
+  "term_3": null,
+  "term_1_payment_date": "2024-11-23",
+  "term_2_payment_date": null,
+  "term_3_payment_date": null,
+  "pan": "LYXPS8284E",
+  "gst": "",
+  "remark": "also udhyam cerificate ",
+  "date": {
+    "$date": "2024-11-23T00:00:00.000Z"
+  },
+  "closed_by": "Navneet Sir",
+  "bank": "Razorpay",
+  "status": "Pending",
+  "after_disbursement": "1%",
+  "createdAt": {
+    "$date": "2024-11-23T08:47:16.222Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-23T11:49:03.987Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67419a9da0d19f71685a86c0"
+  },
+  "user_id": "670cb0a685082dc5c9ede023",
+  "bdm": "Lakshmi",
+  "branch_name": "404",
+  "company_name": "ANDAMAN FARMS ALLIED SERVICES PRIVATE LIMITED",
+  "contact_person": "ANDAMAN FARMS ALLIED SERVICES PRIVATE LIMITED",
+  "email": "lakra.sanjayk45@gmail.com",
+  "contact_no": 9476016685,
+  "services": "NAIFF",
+  "total_amount": 23600,
+  "term_1": 5900,
+  "term_2": null,
+  "term_3": null,
+  "term_1_payment_date": "2024-11-23",
+  "term_2_payment_date": null,
+  "term_3_payment_date": null,
+  "pan": "AAZCA7697M",
+  "gst": "N/A",
+  "remark": "NOTES:- \nSERVICES :- NAIFF & STANDUP INDIA",
+  "date": {
+    "$date": "2024-11-23T00:00:00.000Z"
+  },
+  "closed_by": "LAKSHMI LAMBA",
+  "bank": "Razorpay",
+  "status": "Pending",
+  "after_disbursement": "1",
+  "createdAt": {
+    "$date": "2024-11-23T09:04:29.686Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-23T09:04:29.686Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67419d18a0d19f71685a86d2"
+  },
+  "user_id": "6713418a9c16562bb336fe26",
+  "bdm": "Kumari Alka",
+  "branch_name": "808",
+  "company_name": "SHIVDULARI ENTERPRISES PRIVATE LIMITED",
+  "contact_person": "Robin kumar sadilya ",
+  "email": "jk6299293372@gmail.com",
+  "contact_no": 9534823039,
+  "services": "Start-up India Registration with Organisation DSC",
+  "total_amount": 11800,
+  "term_1": 5900,
+  "term_2": null,
+  "term_3": null,
+  "term_1_payment_date": "2024-11-23",
+  "term_2_payment_date": null,
+  "term_3_payment_date": null,
+  "pan": "ABNCS2776C",
+  "gst": "N/A",
+  "remark": "",
+  "date": {
+    "$date": "2024-11-23T00:00:00.000Z"
+  },
+  "closed_by": "self",
+  "bank": "Razorpay",
+  "status": "Pending",
+  "after_disbursement": "2%",
+  "createdAt": {
+    "$date": "2024-11-23T09:15:04.138Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-23T09:15:04.138Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67419db1a0d19f71685a86dc"
+  },
+  "user_id": "67133f6f9c16562bb336fe0b",
+  "bdm": "Amit Prakash",
+  "branch_name": "404",
+  "company_name": "KOSHISH SUSTAINABLE SOLUTIONS PVT LTD",
+  "contact_person": "Ashwini kumar mehta",
+  "email": "akmbwncr@gmail.com",
+  "contact_no": 9818650018,
+  "services": "SEED FUND",
+  "total_amount": 11800,
+  "term_1": 5900,
+  "term_2": null,
+  "term_3": null,
+  "term_1_payment_date": "2024-11-21",
+  "term_2_payment_date": null,
+  "term_3_payment_date": null,
+  "pan": "BDGPM2928B",
+  "gst": "07AAGCK0540C1Z3",
+  "remark": "service include application in 2 scheme first one is SEED FUND and second service will be application of MUDRA LOAN.\n\n\n\nSO PLEASE TAKE CARE OF THIS WHILE SHARING THE AGREEMENT WITH CLIENT. ",
+  "date": {
+    "$date": "2024-11-21T00:00:00.000Z"
+  },
+  "closed_by": "Amit Prakash",
+  "bank": "Razorpay",
+  "status": "Pending",
+  "after_disbursement": "1 %",
+  "createdAt": {
+    "$date": "2024-11-23T09:17:37.134Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-23T09:17:37.134Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6741a2a2a0d19f71685a8724"
+  },
+  "user_id": "67133f6f9c16562bb336fe0b",
+  "bdm": "Amit Prakash",
+  "branch_name": "404",
+  "company_name": "VEDLY BHARAT PVT LTD",
+  "contact_person": "MR",
+  "email": "24*7PUJA@GMAIL.COM",
+  "contact_no": 7004298535,
+  "services": "SEED FUND",
+  "total_amount": 11800,
+  "term_1": null,
+  "term_2": 5900,
+  "term_3": null,
+  "term_1_payment_date": null,
+  "term_2_payment_date": "2024-11-20",
+  "term_3_payment_date": null,
+  "pan": "DFJIK2345K",
+  "gst": "07SNMSDD0878C1Z3",
+  "remark": "SERVICE include 2 application \n1- seed fund\n2-start up accelerator\n\nso please share agreement a/c to this only\n\n\n\n\n\n**pan and gst mentioned here are wrong, just for the sake of booking form submission. ",
+  "date": {
+    "$date": "2024-11-20T00:00:00.000Z"
+  },
+  "closed_by": "Amit Prakash",
+  "bank": "Razorpay",
+  "status": "Pending",
+  "after_disbursement": "1 %",
+  "createdAt": {
+    "$date": "2024-11-23T09:38:42.479Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-23T09:38:42.479Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6741a8b78e1a9d6d0c85cd85"
+  },
+  "user_id": "670caeb185082dc5c9ede008",
+  "bdm": "Umang Rastogi",
+  "branch_name": "808",
+  "company_name": "UDDESHY SHIKSHA PRASAR  SAMITI",
+  "contact_person": "Amit Kumar Agarwal",
+  "email": "umangrastogi@enego.co.in",
+  "contact_no": 9917472176,
+  "services": "Ngo upliftment grants",
+  "total_amount": 11800,
+  "term_1": 11800,
+  "term_2": null,
+  "term_3": null,
+  "term_1_payment_date": "2024-11-23",
+  "term_2_payment_date": null,
+  "term_3_payment_date": null,
+  "pan": "AAAAU9871E",
+  "gst": "N/A",
+  "remark": "",
+  "date": {
+    "$date": "2024-11-23T00:00:00.000Z"
+  },
+  "closed_by": "50% Umang 50% Vishal",
+  "bank": "Razorpay",
+  "status": "Pending",
+  "after_disbursement": "1%",
+  "createdAt": {
+    "$date": "2024-11-23T10:04:39.455Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-23T10:04:39.455Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6741b5096691e3aff099ddf8"
+  },
+  "user_id": "670cb0f985082dc5c9ede02f",
+  "bdm": "Aman Kumar",
+  "branch_name": "404",
+  "company_name": "DHANSHRI TOUR AND TRAVELL",
+  "contact_person": "RAJENDER KUMAR",
+  "email": "dhanshritourholidayspvtltd@gmail.com",
+  "contact_no": 8988152000,
+  "services": "PROJECT REPORT",
+  "total_amount": 8000,
+  "term_1": 8000,
+  "term_2": null,
+  "term_3": null,
+  "term_1_payment_date": "2024-11-23",
+  "term_2_payment_date": null,
+  "term_3_payment_date": null,
+  "pan": "AAKCD6949C",
+  "gst": "N/A",
+  "remark": "",
+  "date": {
+    "$date": "2024-11-23T00:00:00.000Z"
+  },
+  "closed_by": "SADIQUE SIR",
+  "bank": "Razorpay",
+  "status": "Pending",
+  "after_disbursement": "",
+  "createdAt": {
+    "$date": "2024-11-23T10:57:13.290Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-23T10:57:13.290Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6741bfa66691e3aff099de31"
+  },
+  "user_id": "670cafbb85082dc5c9ede014",
+  "bdm": "Sanket Kumar",
+  "branch_name": "1206 A",
+  "company_name": "PARK TRUST ",
+  "contact_person": "KOLLOJU RAMA RAO",
+  "email": "optimentor1995@gmail.com",
+  "contact_no": 9492675386,
+  "services": "Private Investor",
+  "total_amount": 50000,
+  "term_1": null,
+  "term_2": 50000,
+  "term_3": null,
+  "term_1_payment_date": null,
+  "term_2_payment_date": "2024-11-14",
+  "term_3_payment_date": null,
+  "pan": "ADFPK3957N",
+  "gst": "GYWTDWEFJHU",
+  "remark": "25000 - 14/11/2024 (OTHERS)\n15000- 15/11/2024 (AMAN BAJPAI)\n10,000 - 18-11-2024(OTHERS)",
+  "date": {
+    "$date": "2024-11-14T00:00:00.000Z"
+  },
+  "closed_by": "sanket kumar",
+  "bank": "Razorpay",
+  "status": "Pending",
+  "after_disbursement": "1%",
+  "createdAt": {
+    "$date": "2024-11-23T11:42:30.731Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-23T11:42:30.731Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6741c0d26691e3aff099de35"
+  },
+  "user_id": "670cafbb85082dc5c9ede014",
+  "bdm": "Sanket Kumar",
+  "branch_name": "1206 A",
+  "company_name": "MRK INDUSTRIES",
+  "contact_person": "KOLLOJU RAMA RAO",
+  "email": "optimentor1995@gmail.com",
+  "contact_no": 9492675386,
+  "services": "GIG",
+  "total_amount": 65000,
+  "term_1": null,
+  "term_2": 64999,
+  "term_3": null,
+  "term_1_payment_date": null,
+  "term_2_payment_date": "2024-11-18",
+  "term_3_payment_date": null,
+  "pan": "ADFPK3957N",
+  "gst": "N/A",
+  "remark": "25000 - 18-11-2024",
+  "date": {
+    "$date": "2024-09-27T00:00:00.000Z"
+  },
+  "closed_by": "sanket kumar",
+  "bank": "Razorpay",
+  "status": "Pending",
+  "after_disbursement": "1%",
+  "createdAt": {
+    "$date": "2024-11-23T11:47:30.621Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-23T11:47:30.621Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6741c1626691e3aff099de3b"
+  },
+  "user_id": "670cafbb85082dc5c9ede014",
+  "bdm": "Sanket Kumar",
+  "branch_name": "1206 A",
+  "company_name": "SREE ENGINEERING ENTERPRISES",
+  "contact_person": "KOLLOJU RAMA RAO",
+  "email": "optimentor1995@gmail.com",
+  "contact_no": 9492675386,
+  "services": "GIG",
+  "total_amount": 40000,
+  "term_1": null,
+  "term_2": 40000,
+  "term_3": null,
+  "term_1_payment_date": null,
+  "term_2_payment_date": "2024-11-22",
+  "term_3_payment_date": null,
+  "pan": "ADFPK3957N",
+  "gst": "N/A",
+  "remark": "20000- 25-09-2024\n20000- 22/11/2024",
+  "date": {
+    "$date": "2024-09-25T00:00:00.000Z"
+  },
+  "closed_by": "sanket kumar",
+  "bank": "Razorpay",
+  "status": "Pending",
+  "after_disbursement": "1%",
+  "createdAt": {
+    "$date": "2024-11-23T11:49:54.824Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-23T11:49:54.824Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67421cd7e2b726da32efdee1"
+  },
+  "user_id": "6711f3be29ab2e1448507d0a",
+  "bdm": "Md Shadab ",
+  "branch_name": "808",
+  "company_name": "MULNIWASI BAHU UDHYESIYA SHIKSHAN SANTHA",
+  "contact_person": "Latari Kawadu Madavi",
+  "email": "lkmadavi@mail.com",
+  "contact_no": 9518359266,
+  "services": "WEBSITE DEVELOPMENT",
+  "total_amount": 13300,
+  "term_1": 13300,
+  "term_2": null,
+  "term_3": null,
+  "term_1_payment_date": "2024-11-21",
+  "term_2_payment_date": null,
+  "term_3_payment_date": null,
+  "pan": "AAGTM1795A",
+  "gst": "N/A",
+  "remark": "",
+  "date": {
+    "$date": "2024-11-23T00:00:00.000Z"
+  },
+  "closed_by": "self",
+  "bank": "HDFC Bank",
+  "status": "Pending",
+  "after_disbursement": "1%",
+  "createdAt": {
+    "$date": "2024-11-23T18:20:07.582Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-25T05:01:43.404Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6744096498faf12f52714c14"
+  },
+  "user_id": "670cae8d85082dc5c9ede005",
+  "bdm": "Deepak",
+  "branch_name": "808",
+  "company_name": "SRI DURGA TRADERS/ M/S SHIBDURGA TRADERS",
+  "contact_person": "DIPANKAR",
+  "email": "chanakyadipankar@gmail.com",
+  "contact_no": 7908046635,
+  "services": "GIG",
+  "total_amount": 5000,
+  "term_1": null,
+  "term_2": 5000,
+  "term_3": null,
+  "term_1_payment_date": null,
+  "term_2_payment_date": "2024-11-23",
+  "term_3_payment_date": null,
+  "pan": "BGOPP9868G",
+  "gst": "N/A",
+  "remark": "",
+  "date": {
+    "$date": "2024-11-25T00:00:00.000Z"
+  },
+  "closed_by": "self",
+  "bank": "HDFC Bank",
+  "status": "Pending",
+  "after_disbursement": "1%",
+  "createdAt": {
+    "$date": "2024-11-25T05:21:40.400Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-25T05:21:40.400Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67441ecd8be02c79cc92f6ef"
+  },
+  "user_id": "670cb0f985082dc5c9ede02f",
+  "bdm": "Aman Kumar",
+  "branch_name": "404",
+  "company_name": "JAMM INDUSTRIES OVT.LTD.",
+  "contact_person": "JAIDEEP SRIVASTAVA",
+  "email": "INFO@JAMMINDUATRIES.COM",
+  "contact_no": 9871009352,
+  "services": "JANSAMARTH",
+  "total_amount": 17700,
+  "term_1": 17700,
+  "term_2": null,
+  "term_3": null,
+  "term_1_payment_date": "2024-11-25",
+  "term_2_payment_date": null,
+  "term_3_payment_date": null,
+  "pan": "AAGCJ5161Q",
+  "gst": "09AAGCJ5161Q1ZW",
+  "remark": "NO NEED TO SHARE THE AGREEMENT <AGREEMENT ALREADY RECIVED \nKINDLY MAKE PITCH DECK,DPR,FINANCIAL \nAND ALSO APPLY IN STANDUP INDIA",
+  "date": {
+    "$date": "2024-11-25T00:00:00.000Z"
+  },
+  "closed_by": "SELF",
+  "bank": "Razorpay",
+  "status": "Pending",
+  "after_disbursement": "1%",
+  "createdAt": {
+    "$date": "2024-11-25T06:53:01.596Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-25T06:53:01.596Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674426ed8be02c79cc92f708"
+  },
+  "user_id": "671340159c16562bb336fe14",
+  "bdm": "Dhruv Shrivas",
+  "branch_name": "808",
+  "company_name": "ESPYR ENTERPRISES",
+  "contact_person": "SAMIR AFSAR HUSSEIN KHAN ",
+  "email": "espyrofficial@gmail.com",
+  "contact_no": 9987698940,
+  "services": "CGTMSE",
+  "total_amount": 14396,
+  "term_1": 14396,
+  "term_2": null,
+  "term_3": null,
+  "term_1_payment_date": "2024-11-25",
+  "term_2_payment_date": null,
+  "term_3_payment_date": null,
+  "pan": "BCKPK7084B",
+  "gst": "N/A",
+  "remark": "",
+  "date": {
+    "$date": "2024-11-25T00:00:00.000Z"
+  },
+  "closed_by": "SELF",
+  "bank": "Razorpay",
+  "status": "Pending",
+  "after_disbursement": "1.7",
+  "createdAt": {
+    "$date": "2024-11-25T07:27:41.385Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-25T07:27:41.385Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674433902f72e8a47bf4e839"
+  },
+  "user_id": "670cb16385082dc5c9ede035",
+  "bdm": "Rita Rani",
+  "branch_name": "404",
+  "company_name": "MM COMPUTER PRIVATE LIMITED STAR PROPERTY PRIVATE LIMITED STAR FINANCE PRIVATE LIMITED ",
+  "contact_person": "Mirza maqbool",
+  "email": "mirzamaqboolbeg78692@gmail.com",
+  "contact_no": 8878978622,
+  "services": "SEED SUPPORT SCHEME",
+  "total_amount": 12000,
+  "term_1": 12000,
+  "term_2": null,
+  "term_3": null,
+  "term_1_payment_date": "2024-11-23",
+  "term_2_payment_date": null,
+  "term_3_payment_date": null,
+  "pan": "AAIAM0775D",
+  "gst": "AAIAM0775D",
+  "remark": "payment done by razorpay 12000 including gst 20 lakh requirement",
+  "date": {
+    "$date": "2024-11-23T00:00:00.000Z"
+  },
+  "closed_by": "SELF",
+  "bank": "Razorpay",
+  "status": "Pending",
+  "after_disbursement": "1%",
+  "createdAt": {
+    "$date": "2024-11-25T08:21:36.494Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-25T09:38:40.491Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674436972f72e8a47bf4e83d"
+  },
+  "user_id": "670cb16385082dc5c9ede035",
+  "bdm": "Rita Rani",
+  "branch_name": "404",
+  "company_name": "ANURADHA CHANDEL",
+  "contact_person": "ANURADHA CHANDEL",
+  "email": "Anuradhachandel1708@gmail.com",
+  "contact_no": 8319590206,
+  "services": "JANSAMARTH",
+  "total_amount": 9440,
+  "term_1": 9440,
+  "term_2": null,
+  "term_3": null,
+  "term_1_payment_date": "2024-11-24",
+  "term_2_payment_date": null,
+  "term_3_payment_date": null,
+  "pan": "BDQPC5332R",
+  "gst": "BDQPC5332R",
+  "remark": "10Lkh requirement and payment done 9440 and agreement se releted person 887897822 mirza mirzamaqboolbeg78692@gmail.com",
+  "date": {
+    "$date": "2024-11-24T00:00:00.000Z"
+  },
+  "closed_by": "SELF",
+  "bank": "Razorpay",
+  "status": "Pending",
+  "after_disbursement": "2%",
+  "createdAt": {
+    "$date": "2024-11-25T08:34:31.615Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-25T08:34:31.615Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67443af92f72e8a47bf4e84d"
+  },
+  "user_id": "670cae8d85082dc5c9ede005",
+  "bdm": "Deepak",
+  "branch_name": "808",
+  "company_name": "VBP FOUNDATION",
+  "contact_person": "VBP FOUNDATION",
+  "email": "vbpfoundation2020@gmail.com",
+  "contact_no": 8050299920,
+  "services": "GIG",
+  "total_amount": 4000,
+  "term_1": null,
+  "term_2": 4000,
+  "term_3": null,
+  "term_1_payment_date": null,
+  "term_2_payment_date": "2024-11-25",
+  "term_3_payment_date": null,
+  "pan": "AAGAV7523A",
+  "gst": "N/A",
+  "remark": "",
+  "date": {
+    "$date": "2024-11-25T00:00:00.000Z"
+  },
+  "closed_by": "self",
+  "bank": "Kotak Mahindra Bank",
+  "status": "Pending",
+  "after_disbursement": "1%",
+  "createdAt": {
+    "$date": "2024-11-25T08:53:13.476Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-25T08:53:13.476Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674447de2f72e8a47bf4e89d"
+  },
+  "user_id": "670caeb185082dc5c9ede008",
+  "bdm": "Umang Rastogi",
+  "branch_name": "808",
+  "company_name": "M/S ARAP INDUSTRIES PRIVATE LIMITED",
+  "contact_person": "Aditya Chauhan",
+  "email": "adityachauhan1996@gmail.com",
+  "contact_no": 9835079081,
+  "services": "Mudra Loan",
+  "total_amount": 3933,
+  "term_1": null,
+  "term_2": 3933,
+  "term_3": null,
+  "term_1_payment_date": null,
+  "term_2_payment_date": "2024-11-25",
+  "term_3_payment_date": null,
+  "pan": "AZFPC3136K",
+  "gst": "N/A",
+  "remark": "remaining amount received",
+  "date": {
+    "$date": "2024-11-25T00:00:00.000Z"
+  },
+  "closed_by": "Self",
+  "bank": "Razorpay",
+  "status": "Pending",
+  "after_disbursement": "1%",
+  "createdAt": {
+    "$date": "2024-11-25T09:48:14.010Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-25T09:48:14.010Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674448462f72e8a47bf4e8a5"
+  },
+  "user_id": "670caeb185082dc5c9ede008",
+  "bdm": "Umang Rastogi",
+  "branch_name": "808",
+  "company_name": "M/S ARAP INDUSTRIES PRIVATE LIMITED",
+  "contact_person": "Aditya Chauhan",
+  "email": "adityachauhan1996@gmail.com",
+  "contact_no": 9835079081,
+  "services": "CGTMSE",
+  "total_amount": 3933,
+  "term_1": null,
+  "term_2": 3933,
+  "term_3": null,
+  "term_1_payment_date": null,
+  "term_2_payment_date": "2024-11-25",
+  "term_3_payment_date": null,
+  "pan": "AZFPC3136K",
+  "gst": "N/A",
+  "remark": "remaining amount received",
+  "date": {
+    "$date": "2024-11-25T00:00:00.000Z"
+  },
+  "closed_by": "Self",
+  "bank": "Razorpay",
+  "status": "Pending",
+  "after_disbursement": "1%",
+  "createdAt": {
+    "$date": "2024-11-25T09:49:58.672Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-25T09:49:58.672Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674448a12f72e8a47bf4e8ac"
+  },
+  "user_id": "670caeb185082dc5c9ede008",
+  "bdm": "Umang Rastogi",
+  "branch_name": "808",
+  "company_name": "M/S ARAP INDUSTRIES PRIVATE LIMITED",
+  "contact_person": "Aditya Chauhan",
+  "email": "adityachauhan1996@gmail.com",
+  "contact_no": 9835079081,
+  "services": "GIG",
+  "total_amount": 3934,
+  "term_1": null,
+  "term_2": 3934,
+  "term_3": null,
+  "term_1_payment_date": null,
+  "term_2_payment_date": "2024-11-25",
+  "term_3_payment_date": null,
+  "pan": "AZFPC3136K",
+  "gst": "N/A",
+  "remark": "remaining amount received",
+  "date": {
+    "$date": "2024-11-25T00:00:00.000Z"
+  },
+  "closed_by": "Self",
+  "bank": "Razorpay",
+  "status": "Pending",
+  "after_disbursement": "1%",
+  "createdAt": {
+    "$date": "2024-11-25T09:51:29.210Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-25T09:51:29.210Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6744493b2f72e8a47bf4e8af"
+  },
+  "user_id": "670caeb185082dc5c9ede008",
+  "bdm": "Umang Rastogi",
+  "branch_name": "808",
+  "company_name": "VANSHEER FOUNDATION",
+  "contact_person": "Amar Desai",
+  "email": "ad71176@rediff.com",
+  "contact_no": 9825342628,
+  "services": "Ngo upliftment grants",
+  "total_amount": 9640,
+  "term_1": 9640,
+  "term_2": null,
+  "term_3": null,
+  "term_1_payment_date": "2024-11-25",
+  "term_2_payment_date": null,
+  "term_3_payment_date": null,
+  "pan": "AAJCV0531F",
+  "gst": "N/A",
+  "remark": "",
+  "date": {
+    "$date": "2024-11-25T00:00:00.000Z"
+  },
+  "closed_by": "Self",
+  "bank": "Kotak Mahindra Bank",
+  "status": "Pending",
+  "after_disbursement": "1%",
+  "createdAt": {
+    "$date": "2024-11-25T09:54:03.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-25T09:54:03.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67444ab92f72e8a47bf4e8b2"
+  },
+  "user_id": "670caeb185082dc5c9ede008",
+  "bdm": "Umang Rastogi",
+  "branch_name": "808",
+  "company_name": "AINESH RENEWABLE TECHNOLOGIES PRIVATE LIMITED",
+  "contact_person": "Sandeep ",
+  "email": "info@aineshrenewable.com",
+  "contact_no": 9899284350,
+  "services": "GIG",
+  "total_amount": 8063,
+  "term_1": null,
+  "term_2": 8063,
+  "term_3": null,
+  "term_1_payment_date": null,
+  "term_2_payment_date": "2024-11-25",
+  "term_3_payment_date": null,
+  "pan": "AAUCA1077C",
+  "gst": "09AAHCE8996K1ZN",
+  "remark": "remaining amount received",
+  "date": {
+    "$date": "2024-11-25T00:00:00.000Z"
+  },
+  "closed_by": "50% sanjeev 50% Umang",
+  "bank": "Kotak Mahindra Bank",
+  "status": "Pending",
+  "after_disbursement": "1%",
+  "createdAt": {
+    "$date": "2024-11-25T10:00:25.253Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-25T10:00:25.253Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67444b822f72e8a47bf4e8b5"
+  },
+  "user_id": "670caeb185082dc5c9ede008",
+  "bdm": "Umang Rastogi",
+  "branch_name": "808",
+  "company_name": "AINESH RENEWABLE TECHNOLOGIES PRIVATE LIMITED",
+  "contact_person": "Sandeep",
+  "email": "info@aineshrenewable.com",
+  "contact_no": 9899284350,
+  "services": "CGTMSE",
+  "total_amount": 8063,
+  "term_1": null,
+  "term_2": 8063,
+  "term_3": null,
+  "term_1_payment_date": null,
+  "term_2_payment_date": "2024-11-25",
+  "term_3_payment_date": null,
+  "pan": "AAUCA1077C",
+  "gst": "N/A",
+  "remark": "REMAINING AMOUNT",
+  "date": {
+    "$date": "2024-11-25T00:00:00.000Z"
+  },
+  "closed_by": "50% sanjeev 50% Umang",
+  "bank": "Kotak Mahindra Bank",
+  "status": "Pending",
+  "after_disbursement": "1%",
+  "createdAt": {
+    "$date": "2024-11-25T10:03:46.280Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-25T10:03:46.280Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67444c092f72e8a47bf4e8b8"
+  },
+  "user_id": "670caeb185082dc5c9ede008",
+  "bdm": "Umang Rastogi",
+  "branch_name": "808",
+  "company_name": "AINESH RENEWABLE TECHNOLOGIES PRIVATE LIMITED",
+  "contact_person": "Sandeep",
+  "email": "info@aineshrenewable.com",
+  "contact_no": 9899284350,
+  "services": "TAX EXEMPTION",
+  "total_amount": 8064,
+  "term_1": null,
+  "term_2": 8064,
+  "term_3": null,
+  "term_1_payment_date": null,
+  "term_2_payment_date": "2024-11-25",
+  "term_3_payment_date": null,
+  "pan": "AAUCA1077C",
+  "gst": "09AAHCE8996K1ZN",
+  "remark": "REMAINING AMOUNT RECEIVED",
+  "date": {
+    "$date": "2024-11-25T00:00:00.000Z"
+  },
+  "closed_by": "50% sanjeev 50% Umang",
+  "bank": "Kotak Mahindra Bank",
+  "status": "Pending",
+  "after_disbursement": "",
+  "createdAt": {
+    "$date": "2024-11-25T10:06:01.760Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-25T10:18:57.313Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6744535f2f72e8a47bf4e8da"
+  },
+  "user_id": "673b2e8464b3087559c7f9cf",
+  "bdm": "Arun Mahor",
+  "branch_name": "808",
+  "company_name": "NAVA EXTRUSION & EXIM PRIVATE LIMITED",
+  "contact_person": "NAVA EXTRUSION & EXIM PRIVATE LIMITED",
+  "email": "dhirngupta@gmail.com",
+  "contact_no": 9212599330,
+  "services": "GIG",
+  "total_amount": 29500,
+  "term_1": 29500,
+  "term_2": null,
+  "term_3": null,
+  "term_1_payment_date": "2024-11-25",
+  "term_2_payment_date": null,
+  "term_3_payment_date": null,
+  "pan": "AAJCN7446F",
+  "gst": "N/A",
+  "remark": "",
+  "date": {
+    "$date": "2024-11-25T00:00:00.000Z"
+  },
+  "closed_by": "self ",
+  "bank": "HDFC Bank",
+  "status": "Pending",
+  "after_disbursement": "1%",
+  "createdAt": {
+    "$date": "2024-11-25T10:37:19.123Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-25T10:37:19.123Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6744593a2f72e8a47bf4e8e7"
+  },
+  "user_id": "671340639c16562bb336fe17",
+  "bdm": "Liju Mathew",
+  "branch_name": "1206 A",
+  "company_name": "MAR DIONISIOUS MEMORIAL CHARITABLE SOCIETY",
+  "contact_person": "Mr . Kurian",
+  "email": "holyangelvc@gmail.com",
+  "contact_no": 9746966714,
+  "services": "GIG",
+  "total_amount": 50350,
+  "term_1": 11800,
+  "term_2": null,
+  "term_3": null,
+  "term_1_payment_date": "2024-11-25",
+  "term_2_payment_date": null,
+  "term_3_payment_date": null,
+  "pan": "AADAM7248L",
+  "gst": "AADAM7248L",
+  "remark": "Remaining Payment will be credited by tomorrow ",
+  "date": {
+    "$date": "2024-11-25T00:00:00.000Z"
+  },
+  "closed_by": "SELF",
+  "bank": "Kotak Mahindra Bank",
+  "status": "Pending",
+  "after_disbursement": "2%",
+  "createdAt": {
+    "$date": "2024-11-25T11:02:18.303Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-25T11:02:18.303Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67445ece2f72e8a47bf4e8f8"
+  },
+  "user_id": "67133ce59c16562bb336fdf6",
+  "bdm": "Vivek Chauhan",
+  "branch_name": "404",
+  "company_name": "SEVEN WONDERS PLAYSCHOOL",
+  "contact_person": "Prasad Manishrao Gore",
+  "email": "prasadgore41@gmail.com",
+  "contact_no": 7058076598,
+  "services": "JANSAMARTH",
+  "total_amount": 11800,
+  "term_1": null,
+  "term_2": 5900,
+  "term_3": null,
+  "term_1_payment_date": null,
+  "term_2_payment_date": "2024-11-25",
+  "term_3_payment_date": null,
+  "pan": "BJNPG4764N",
+  "gst": "na",
+  "remark": "",
+  "date": {
+    "$date": "2024-11-25T00:00:00.000Z"
+  },
+  "closed_by": "myself",
+  "bank": "HDFC Bank",
+  "status": "Pending",
+  "after_disbursement": "1%",
+  "createdAt": {
+    "$date": "2024-11-25T11:26:06.513Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-25T11:26:06.513Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674469712f72e8a47bf4e960"
+  },
+  "user_id": "670cb0f985082dc5c9ede02f",
+  "bdm": "Aman Kumar",
+  "branch_name": "404",
+  "company_name": "SWAMI KINDCOMMERCE",
+  "contact_person": "UTKARSHA SANTOSH YEDLAWAR",
+  "email": "Swamikindcommerce@gmail.com",
+  "contact_no": 8888625255,
+  "services": "WEBSITE DEVELOPMENT",
+  "total_amount": 10000,
+  "term_1": 5000,
+  "term_2": null,
+  "term_3": null,
+  "term_1_payment_date": "2024-11-25",
+  "term_2_payment_date": null,
+  "term_3_payment_date": null,
+  "pan": "APBPY8201P",
+  "gst": "N/A",
+  "remark": "KINDLY USE DOMAIN NAME-SWAMI KINDCOMMERCE",
+  "date": {
+    "$date": "2024-11-25T00:00:00.000Z"
+  },
+  "closed_by": "SELF",
+  "bank": "Razorpay",
+  "status": "Pending",
+  "after_disbursement": "",
+  "createdAt": {
+    "$date": "2024-11-25T12:11:29.545Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-25T12:11:29.545Z"
+  }
+}]

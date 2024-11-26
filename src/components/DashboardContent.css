@@ -1,0 +1,393 @@
+/* Container for the dashboard */
+.dashboard-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px;
+  box-sizing: border-box;
+  flex-grow: 1;
+  max-width: 100%;
+}
+
+/* Top row stats cards */
+.stats-row {
+  display: flex;
+  gap: 20px;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.card {
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(187, 158, 158, 0.1);
+  flex: 1 1 22%;
+  min-width: 250px;
+  padding: 30px;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.card-icon {
+  padding: 15px;
+  border-radius: 10px;
+  background-color: #f5f5f5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.bookings-icon { background-color: #000; }
+.users-icon { background-color: #007bff; }
+.revenue-icon { background-color: #28a745; }
+.followers-icon { background-color: #ff4757; }
+
+.card-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.card-info h3 {
+  font-size: 18px;
+  margin-bottom: 5px;
+  color: #333;
+}
+
+.card-info p {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0;
+  color: #000;
+}
+
+.card-update {
+  font-size: 12px;
+  color: gray;
+}
+
+/* Charts section */
+.charts-row {
+  display: flex;
+  gap: 20px;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.chart-container {
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  flex: 1 1 30%;
+  min-width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.line-chart { background-color: #f5f5f5; }
+.green-chart { background-color: #28a745; }
+.dark-chart { background-color: #1e1e2f; }
+
+.chart-container h4 {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #333;
+}
+
+.chart-container p {
+  font-size: 14px;
+  color: gray;
+}
+
+/* Bottom row: Projects and orders overview */
+.bottom-row {
+  display: flex;
+  gap: 20px;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.projects, .orders-overview {
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  flex: 1 1 48%;
+  padding: 20px;
+  min-width: 300px;
+}
+
+.projects h4, .orders-overview h4 {
+  font-size: 18px;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.project-details .project, .orders-overview .order-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 0;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.project .company-name, .order-item .order-desc {
+  font-weight: bold;
+  color: #333;
+}
+
+.project .budget, .order-item .order-date {
+  color: gray;
+}
+
+.order-status {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+.recent-bookings {
+  width: 100%;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.recent-bookings h4 {
+  font-size: 20px;
+  margin-bottom: 20px;
+  color: #333;
+  font-weight: 600;
+}
+
+.recent-bookings table {
+  width: 100%;
+  border-collapse: collapse;
+  border-radius: 12px;
+  overflow: hidden;
+  font-family: 'Arial', sans-serif;
+  background-color: #f9f9f9;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+}
+
+.recent-bookings th {
+  background-color: #0b0135;
+  color: white;
+  font-weight: bold;
+  text-align: left;
+  padding: 15px;
+  font-size: 16px;
+}
+
+.recent-bookings td {
+  padding: 12px 15px;
+  font-size: 15px;
+  color: #333;
+  font-weight: bold;
+}
+
+.recent-bookings tr:nth-child(even) {
+  background-color: #f3f7fa;
+}
+
+.recent-bookings tr:hover {
+  background-color: #e1ecf4;
+  cursor: pointer;
+}
+
+.recent-bookings th:first-child, .recent-bookings td:first-child {
+  border-top-left-radius: 12px;
+  border-bottom-left-radius: 12px;
+}
+
+.recent-bookings th:last-child, .recent-bookings td:last-child {
+  border-top-right-radius: 12px;
+  border-bottom-right-radius: 12px;
+}
+
+.recent-bookings tr {
+  transition: background-color 0.3s ease;
+}
+
+
+.green { background-color: #28a745; }
+.red { background-color: #ff4757; }
+.blue { background-color: #007bff; }
+
+/* Adjustments for larger screens */
+/* Default styles are applied for larger screens */
+
+/* Media query for extra large desktops (1440px and above) */
+@media (min-width: 1440px) {
+  .dashboard-container {
+    padding: 30px;
+  }
+
+  .card {
+    padding: 50px;
+    flex: 1 1 18%;
+  }
+
+  .chart-container {
+    padding: 40px;
+    flex: 1 1 28%;
+  }
+
+  .card-info p {
+    font-size: 28px;
+  }
+
+  .card-info h3 {
+    font-size: 20px;
+  }
+
+  .chart-container h4 {
+    font-size: 20px;
+  }
+
+  .chart-container p {
+    font-size: 16px;
+  }
+}
+
+/* Media query for standard desktops (1200px - 1440px) */
+@media (min-width: 1200px) and (max-width: 1440px) {
+  .dashboard-container {
+    padding: 25px;
+  }
+
+  .card {
+    padding: 40px;
+    flex: 1 1 20%;
+  }
+
+  .chart-container {
+    padding: 30px;
+    flex: 1 1 30%;
+  }
+
+  .card-info p {
+    font-size: 24px;
+  }
+
+  .card-info h3 {
+    font-size: 18px;
+  }
+
+  .chart-container h4 {
+    font-size: 18px;
+  }
+
+  .chart-container p {
+    font-size: 14px;
+  }
+}
+
+/* Media query for tablets (768px - 1024px) */
+@media (min-width: 768px) and (max-width: 1024px) {
+  .dashboard-container {
+    padding: 20px;
+  }
+
+  .card {
+    flex: 1 1 45%; /* Adjust card size for tablets */
+    padding: 30px;
+  }
+
+  .chart-container {
+    flex: 1 1 45%; /* Adjust chart size for tablets */
+    padding: 25px;
+  }
+
+  .card-info p {
+    font-size: 20px;
+  }
+
+  .card-info h3 {
+    font-size: 16px;
+  }
+
+  .chart-container h4 {
+    font-size: 16px;
+  }
+
+  .chart-container p {
+    font-size: 14px;
+  }
+}
+
+/* Media query for mobile devices (480px - 768px) */
+@media (min-width: 480px) and (max-width: 768px) {
+  .dashboard-container {
+    padding: 15px;
+  }
+
+  .stats-row, .charts-row, .bottom-row {
+    flex-direction: column;
+  }
+
+  .card {
+    flex: 1 1 100%; /* Full width for cards */
+    padding: 25px;
+    margin-bottom: 20px;
+  }
+
+  .chart-container {
+    flex: 1 1 100%; /* Full width for charts */
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+
+  .card-info p {
+    font-size: 18px;
+  }
+
+  .card-info h3 {
+    font-size: 14px;
+  }
+
+  .chart-container h4 {
+    font-size: 14px;
+  }
+
+  .chart-container p {
+    font-size: 12px;
+  }
+}
+
+/* Media query for extra small mobile devices (max-width 480px) */
+@media (max-width: 480px) {
+  .dashboard-container {
+    padding: 10px;
+  }
+
+  .card {
+    flex: 1 1 100%;
+    padding: 20px;
+    margin-bottom: 15px;
+  }
+
+  .chart-container {
+    flex: 1 1 100%;
+    padding: 15px;
+    margin-bottom: 15px;
+  }
+
+  .card-info p {
+    font-size: 16px;
+  }
+
+  .card-info h3 {
+    font-size: 12px;
+  }
+
+  .chart-container h4 {
+    font-size: 12px;
+  }
+
+  .chart-container p {
+    font-size: 10px;
+  }
+}
